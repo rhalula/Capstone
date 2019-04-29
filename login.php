@@ -4,13 +4,13 @@
     </head>
     <body>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/MyFirstWebsite/styles.css">
+    <link rel="stylesheet" href="/MyTestWebsite/styles.css">
     <div class="container-fluid">
     	<div class="row">
     		<div class="col-md-12">
     			<nav class="navbar navbar-expand-lg navbar-light bg-light navbar-dark bg-dark">
 
-            <a class="navbar-brand" href="#">Learn to Crochet</a>
+            <a class="navbar-brand" href="index.php">Learn to Crochet</a>
     				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     					<ul class="navbar-nav ml-md-auto">
     						<li class="nav-item active">
@@ -38,7 +38,7 @@
     	</div>
     </div>
         <h2>Login Page</h2>
-          <a href="index.php">Click here to go back</a><br /><br />
+          <p>Login to back up from where you were!</p><br />
           <form action="checklogin.php" method="POST">
             Enter Username: <input type="text" name="username" required="required" /> <br />
             Enter password: <input type="password" name="password" required="required" /> <br />

@@ -19,7 +19,7 @@
     		<div class="col-md-12">
     			<nav class="navbar navbar-expand-lg navbar-light bg-light navbar-dark bg-dark">
 
-            <a class="navbar-brand" href="#">Learn to Crochet</a>
+            <a class="navbar-brand" href="index.php">Learn to Crochet</a>
     				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     					<ul class="navbar-nav ml-md-auto">
     						<li class="nav-item active">
@@ -46,22 +46,13 @@
     		</div>
     	</div>
     </div>
-      <h2>Home Page</h2>
 
-        <a href="logout.php">Click here to log out</a><br/><br/>
-        <form action="add.php" method="POST">
-          Add more to list: <input type="text" name ="details" /><br/>
-          Public post? <input type="checkbox" name="public[]" value="yes" /><br/>
-          <input type="submit" value"Add to list"/>
-        </form>
-        <h2 align="center">My list</h2>
-        <table border="1px" width="100%">
-          <tr>
-            <th>Id</th>
-            <th>Details</th>
-            <th>Edit</th>
-            <th>Delete</th>
-          </tr>
-        </table>
-      </body>
+    <video width="320" height="240" controls>
+      <source src="NAME_OF_VIDEO.mp4"
+      type="video/mp4">
+      <source src="movie.ogg"
+      type="video/ogg">
+      Your browser doesn't support the video tag.
+    </video>
+  </body>
 </html>
