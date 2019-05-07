@@ -1,11 +1,11 @@
 <html>
   <head>
-    <title>My test PHP website </title>
+    <title>Learn to Crochet</title>
   </head>
   <body>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" href="/MytestWebsite/styles.css">
+<link rel="stylesheet" href="/Learn to Crochet/styles.css">
     <div class="container-fluid">
     	<div class="row">
     		<div class="col-md-12">
@@ -46,11 +46,6 @@
     					<a class="btn-primary btn-large" href="register.php">Create an Account</a>
     				</p>
     			</div>
-    			<p>
-    				Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget ra in dolor.
-            Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales.  diam velit et dui.</em>
-            Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, a ipsum consequat eu.</small>
-    			</p>
     		</div>
     	</div>
     </div>

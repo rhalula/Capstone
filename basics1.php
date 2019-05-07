@@ -1,11 +1,11 @@
 <html>
 <head>
-  <title>My test PHP Website</title>
+  <title>Learn to Crochet</title>
 </head>
 
 <body>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/MyTestWebsite/styles.css">
+  <link rel="stylesheet" href="/Learn to Crochet/styles.css">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
@@ -53,7 +53,7 @@
     <dt>Holding the Yarn and Hook</dt>
   </dl>
   <video width="420" height="300" controls style="padding: 15px">
-    <source src="NAME_OF_VIDEO.mp4"
+    <source src="/Learn to Crochet/Captures/Chaining.mp4"
     type="video/mp4">
     <source src="movie.ogg"
     type="video/ogg">
@@ -65,12 +65,12 @@
     <dd>Hold yarn in dominant hand a couple of inches from the end. Wrap the yarn around your nondominant pinkey, go up over your two middle fingers,
       behind your pointer finger, bring it over and pinch between your thumb and middle finger. Holding the yarn this way will help keep the tension
       in the yarn and your work consistent through out your project.</dd></br>
-    <dd>Holding the hook: I forgot to write down how to do this part!!</dd>
+    <dd>Holding the hook: Holding the hook is pretty easy. There is usually a flatter portion on the hook. That is where you pinch. You have the hook facing you upright.</dd>
   </dl>
   </br>
   <dl><dt>First Stitch and Chaining(CH)</dt></dl>
   <video width="420" height="300" controls style="padding: 15px">
-    <source src="NAME_OF_VIDEO.mp4"
+    <source src="/Learn to Crochet/Captures/Single.mp4"
     type="video/mp4">
     <source src="movie.ogg"
     type="video/ogg">

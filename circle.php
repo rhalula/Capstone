@@ -1,10 +1,10 @@
 <html>
 <head>
-  <title>My test PHP Website</title>
+  <title>Learn to Crochet</title>
 </head>
 <body>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/MyTestWebsite/styles.css">
+  <link rel="stylesheet" href="/Learn to Crochet/styles.css">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
@@ -45,7 +45,7 @@
     </dd>
   </dl>
   <video width="420" height="300" controls style="padding: 15px">
-    <source src="NAME_OF_VIDEO.mp4"
+    <source src="/Learn to Crochet/Captures/Counting.mp4"
     type="video/mp4">
     <source src="movie.ogg"
     type="video/ogg">

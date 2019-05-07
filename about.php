@@ -1,10 +1,10 @@
 <html>
     <head>
-        <title>My test PHP Website</title>
+        <title>Learn to Crochet</title>
     </head>
     <body>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/MyTestWebsite/styles.css">
+    <link rel="stylesheet" href="/Learn to Crochet/styles.css">
     <div class="container-fluid">
     	<div class="row">
     		<div class="col-md-12">
@@ -44,6 +44,7 @@
       what to do my senior project on this is what I thought of: a place that could walk people through learning the basics of
       crocheting.</p></br>
     <h2>About the Author</h2>
-    <p>about me.....oh boy...</p>
-  </body>
+    <p>I have been crocheting for many years and love getting to share it with others. I wanted a way to join two of my passions together
+      for my senior project so this is what I came up with. I used my years of practice to create a way to show people the steps of learning
+      to crochet.</p>
 </html>

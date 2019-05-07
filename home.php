@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>My test PHP Website</title>
+    <title>Learn to Crochet</title>
   </head>
   <?php
   session_start(); //starts the session
@@ -13,7 +13,7 @@
   ?>
     <body>
               <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/MyFirstWebsite/styles.css">
+    <link rel="stylesheet" href="/Learn to Crochet/styles.css">
     <div class="container-fluid">
     	<div class="row">
     		<div class="col-md-12">
